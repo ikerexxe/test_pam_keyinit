@@ -1,0 +1,1 @@
+session         required        /home/ipedrosa/repos/linux-pam/modules/pam_keyinit/.libs/pam_keyinit.so
